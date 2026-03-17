@@ -18,4 +18,5 @@ ALL APPLICATIONS SHOWN HERE ARE FOR EDUCATIONAL PURPOSES ONLY. USING THESE PROGR
 
 
 password : infected
+
 protip : use a vm and close windf and dont install theese if u dont know what are u doing
